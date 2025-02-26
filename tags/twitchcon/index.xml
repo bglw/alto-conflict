@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TwitchCon on Hugo Bookshop Starter</title>
+    <link>/tags/twitchcon/</link>
+    <description>Recent content in TwitchCon on Hugo Bookshop Starter</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0700</lastBuildDate>
+    <atom:link href="/tags/twitchcon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything We Announced at TwitchCon San Diego</title>
+      <link>/posts/that-which-does-not-kill-us-makes-us-stronger/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0700</pubDate>
+      <guid>/posts/that-which-does-not-kill-us-makes-us-stronger/</guid>
+      <description>We’re back, San Diego! We’re so excited to return to SoCal with Twitch community members from across the world. We’ve got three jam packed days of Rivals, sponsor giveaways, meet and greets, Creator Camp, and more.&#xA;If you’re tuning in from home, you can watch content streamed from various stages, including /twitch, /nomnom, /TwitchRivals, and /creatorcamp. The full schedule of content for the weekend is here.&#xA;During the Opening Ceremony keynote, CEO Dan Clancy shared news about our product roadmap including updates coming to Clips, our plans for the Twitch mobile application, details on Shared Chat, and changes to our enforcement system.</description>
+    </item>
+  </channel>
+</rss>
